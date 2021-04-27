@@ -9,5 +9,4 @@ __WEBSCAPED URL__: https://en.wikipedia.org/wiki/List_of_American_football_stadi
 
 __COLLABORATORS__:
   - Brandon Bobbitt
-  - Noah Askew
-
+  - Noah Askew *(ACCEPTED: 4/26/21)*
